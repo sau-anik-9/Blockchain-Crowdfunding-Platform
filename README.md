@@ -1,4 +1,6 @@
-# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
-![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
+<h1/>Build and Deploy Web3 Crowdfunding Platform
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain is what the project benchmarks to.
+
+Unlike traditional crowdfunding platforms, Web3 crowdfunding platforms use smart contracts to automate the fundraising process and provide transparent and secure transactions. Web3 crowdfunding platforms allow project creators to set their fundraising goals, and interested parties can contribute to the project by sending cryptocurrency to the platform. The platform holds the funds in escrow until the project is completed, ensuring that contributors' funds are protected.
+Additionally, Web3 crowdfunding platforms offer tokenization, which means that project creators can issue tokens to contributors, giving them a stake in the project's success. This system creates a decentralized and democratic funding environment that allows anyone with an internet connection and a cryptocurrency wallet to support promising projects and businesses.
